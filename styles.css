@@ -1,0 +1,16 @@
+#theRatKingdom{
+  text-align: center;
+  font-weight: 750;
+}
+#question{
+  font-size: 15px;
+  font-weight: 750;
+}
+#button{
+  border-radius: 15px;
+}.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
